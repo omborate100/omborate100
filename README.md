@@ -25,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omborate100&show_icons=true&locale=en" alt="omborate100" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omborate100&" alt="omborate100" /></p>
+<p><img align="center" src="https://leetcode.card.workers.dev/om_borate?theme=light&font=source_code_pro&extension=null" alt="om_borate" /></p>
