@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omborate100&label=Profile%20views&color=0e75b6&style=flat" alt="omborate100" /> </p>
 
-- ⚡  **[PortFolio Website](omborate.in)**
+- ⚡  **[PortFolio Website](https://www.omborate.in/)**
   
 - 🔭 I’m currently working on **Flutter and AWS**
 
